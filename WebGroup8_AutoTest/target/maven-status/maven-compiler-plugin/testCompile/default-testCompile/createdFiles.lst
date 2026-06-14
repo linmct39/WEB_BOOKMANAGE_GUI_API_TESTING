@@ -1,0 +1,16 @@
+pages\LoginPage.class
+steps\UICartSteps.class
+pages\CartPage.class
+steps\APILoginSteps.class
+core\BaseTest.class
+pages\RegisterPage.class
+steps\APIHomeSteps.class
+steps\APIRegisterSteps.class
+steps\UIHomeSteps.class
+steps\UISearchSteps.class
+steps\APIUsersSteps.class
+pages\HomePage.class
+steps\UIRegisterSteps.class
+pages\SearchPage.class
+steps\UILoginSteps.class
+runner\TestRunner.class
